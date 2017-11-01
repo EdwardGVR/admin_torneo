@@ -1,0 +1,36 @@
+header {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	width: 100%;
+	/*max-height: 300px;*/
+
+	background: #08278A;
+}
+
+.options {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-wrap: wrap;
+
+	width: 95%;
+	/*height: 200px;*/
+	margin: 25px auto;
+
+	background: #191458;
+}
+
+.option {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	width: 150px;
+	height: 150px;
+	margin: 25px auto;
+
+	background: #183E6E;
+	color: #fff;
+}
