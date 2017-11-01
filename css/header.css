@@ -9,6 +9,17 @@ header {
 	background: #08278A;
 }
 
+.bar {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+	height: 60px;
+	width: 100%;
+
+	background: #000;
+}
+
 .options {
 	display: flex;
 	justify-content: space-around;
@@ -29,7 +40,7 @@ header {
 
 	width: 150px;
 	height: 150px;
-	margin: 25px auto;
+	margin: 25px;
 
 	background: #183E6E;
 	color: #fff;

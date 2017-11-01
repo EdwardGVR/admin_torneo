@@ -1,4 +1,7 @@
 <header>
+	<div class="bar">
+		
+	</div>
 	<div class="options">
 		<div class="option">1</div>
 		<div class="option">2</div>
