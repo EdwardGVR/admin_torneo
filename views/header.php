@@ -1,6 +1,11 @@
 <header>
 	<div class="bar">
-		
+		<div class="logo">
+			
+		</div>
+		<div class="login">
+			
+		</div>
 	</div>
 	<div class="options">
 		<div class="option">1</div>
