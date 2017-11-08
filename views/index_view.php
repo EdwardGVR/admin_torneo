@@ -7,7 +7,7 @@
 	<link rel="stylesheet" href="css/header.css">
 </head>
 <body>
-	<?php include 'header.php'; ?>
+	<?php include 'header.php' ?>
 
 	<div class="main-container">
 		<aside>
@@ -23,5 +23,7 @@
 				
 		</main>
 	</div>
+	
+	<?php include 'footer.html' ?>
 </body>
 </html>
